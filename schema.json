@@ -1,0 +1,19 @@
+{
+  "collection": "records.json",
+  "record_fields": [
+    "record_id",
+    "person_ref",
+    "cohort",
+    "activity",
+    "status",
+    "source"
+  ],
+  "example_record": {
+    "record_id": "p-01",
+    "person_ref": "alias-7",
+    "cohort": "2022",
+    "activity": "线上观众",
+    "status": "observed",
+    "source": "报名台账"
+  }
+}

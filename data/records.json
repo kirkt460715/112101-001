@@ -1,0 +1,36 @@
+{
+  "records": [
+    {
+      "record_id": "p-01",
+      "person_ref": "alias-7",
+      "cohort": "2022",
+      "activity": "线上观众",
+      "status": "observed",
+      "source": "报名台账"
+    },
+    {
+      "record_id": "p-02",
+      "person_ref": "alias-7",
+      "cohort": "2023",
+      "activity": "地区选手",
+      "status": "attended",
+      "source": "赛区名单"
+    },
+    {
+      "record_id": "p-03",
+      "person_ref": "alias-7-es",
+      "cohort": "2025",
+      "activity": "志愿者",
+      "status": "reported",
+      "source": "活动回访"
+    },
+    {
+      "record_id": "p-04",
+      "person_ref": "alias-9",
+      "cohort": "2025",
+      "activity": "地区选手",
+      "status": "withdrawn",
+      "source": "赛区名单"
+    }
+  ]
+}
